@@ -1,4 +1,4 @@
-Usage
+Windows Forensics
 =====
 
 .. _installation:
