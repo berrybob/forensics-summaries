@@ -1,10 +1,9 @@
-Welcome to Lumache's documentation!
+Forensic notes
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This is a documentation for notes about computer forensics and serves for educational purposes.
+Whenever it is based on other articles or work, such as  `SANS Cheatsheets <https://www.sans.org/posters/?focus-area=digital-forensics&content-language=english/>`_
+it will be cited in *corresponding* section.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -18,5 +17,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Acquisition
+   Windows Forensics
+   Linux Forensics
